@@ -46,7 +46,6 @@ public class Ex2_LinkedList {
 		Fruits.set(3, "Ranjan");
 		System.out.println(Fruits);
 		
-		//replace??????
 	}
 
 }
