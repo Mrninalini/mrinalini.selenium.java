@@ -8,7 +8,7 @@ public class myexampleclass1 implements myexampleInterface1 {
 	}
 	@Override
 	public void mul() {
-		System.out.println("multiply");		
+		System.out.println("mul");		
 	}
 
 	@Override
