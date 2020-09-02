@@ -21,7 +21,7 @@ public class Ex3_HashSet {
 		Games.add("Badminton");
 		Games.add("Tennis");		//checking duplicacy
 		Games.add("Swimming");
-		Games.add("Tennis");
+		Games.add("table Tennis");
 		Games.add("LawnTennis");
 		Games.add(null);
 		System.out.println(Games);

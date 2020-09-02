@@ -13,7 +13,7 @@ public class myexampleclass1 implements myexampleInterface1 {
 
 	@Override
 	public void add() {
-		System.out.println("sub");
+		System.out.println("subt");
 		
 	}
 

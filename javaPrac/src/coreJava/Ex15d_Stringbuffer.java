@@ -25,6 +25,6 @@ public class Ex15d_Stringbuffer {
 			System.out.println("String :" +xyz);
 		}
 		// have to use array + loop+ reverse
-		char[] xyz = s1.toCharArray();
+		//char[] xyz = s1.toCharArray();
 	}
 }

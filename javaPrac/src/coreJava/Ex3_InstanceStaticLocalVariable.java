@@ -9,9 +9,9 @@ public class Ex3_InstanceStaticLocalVariable {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(b);
+		//System.out.println(b);
 		System.out.println(c);
-		System.out.println(a);
+		//System.out.println(a);
 	}
 
 }
