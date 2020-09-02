@@ -38,7 +38,7 @@ public class Ex1_arraylist {
 		// TODO Auto-generated method stub
 	ArrayList<String> Family = new ArrayList<String>();	//define and create array list
 		Family.add("ABC");	//array list add()
-		Family.add("Ranjan");
+		Family.add("RANJAN");
 		Family.add("Child");
 		Family.add("Dog");
 		Family.add("Friend");
