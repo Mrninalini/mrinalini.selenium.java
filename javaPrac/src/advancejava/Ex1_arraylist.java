@@ -37,7 +37,7 @@ public class Ex1_arraylist {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	ArrayList<String> Family = new ArrayList<String>();	//define and create array list
-		Family.add("ABC");	//array list add()
+		Family.add("Mrinalini");	//array list add()
 		Family.add("RANJAN");
 		Family.add("Child");
 		Family.add("Dog");
@@ -61,10 +61,9 @@ public class Ex1_arraylist {
 		System.out.println(Family.size()); //size method
 		
 		Collections.sort(Family);
-		System.out.println("We are sorting data" +Family);	//Sort family - sorting array??????
+		System.out.println("We are sorting data" +Family);	//Sort list in ascending order according to the first alphabet(A-Z)
 		
 		Family.clear();
-		System.out.println(Family);	//clear method
-		
+		System.out.println(Family);	//clear method		
 	}
 }
