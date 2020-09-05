@@ -1,6 +1,6 @@
 package oopsConcept;
 
-public class Ex3b_interface extends Ex3a_interface_imelement { //Inheritance concept is also applicable to interface
+public class Ex3b_interface extends Ex3a_interface_implement { //Inheritance concept is also applicable to interface
 	public void m2()
 	{
 		System.out.println("Printing m2 method");

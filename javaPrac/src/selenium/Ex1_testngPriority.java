@@ -1,5 +1,5 @@
 /* 
-what is TestNG?
+what is TestNG
 -it is framework which helps in providing annotations,code efficiency, easy to use/manage
 it helps in adding descriptions, 
 helps in grouping, 
@@ -19,7 +19,8 @@ Hierarchy of the TestNG Annotations:
 	The @BeforeTest annotated method will be executed before the execution of all the test methods of available classes
 	 belonging to that folder.
 @BeforeClass
-@BeforeMethod
+@BeforeMethod :
+	The @BeforeMethod annotated method will be invoked before the execution of each test method where the test method is nothing but a test case.
 @BeforeGroups
 	The @BeforeGroups annotated method run only once for a group before the execution of all test cases belonging to that group.
 @Test
