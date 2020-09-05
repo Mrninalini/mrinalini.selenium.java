@@ -1,4 +1,6 @@
 /*Abstraction- process of highlighting the set of services and hiding the implementation 
+
+
  * abstract void M1();
  * hiding internal details and describing things in simple terms
  * use abstract keyword and does not have method body
@@ -45,6 +47,9 @@ Interface -----> abstract Class1 (implement -m1) ----> Class2 extends Class 1---
 
 Interface t = new Interface(); ---> NOT allowed
 Interface t = new class() --> Allowed
+//Class t = new class(); --> Allowed
+
+WebDriver d = new chromeDriver();
 
 NOTE: We cannot initiate /create object of an interface
 */
