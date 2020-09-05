@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>javaPrac</name>
@@ -16,7 +15,6 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
-=======
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>javaPrac</name>
@@ -28,4 +26,4 @@
 	<natures>
 	</natures>
 </projectDescription>
->>>>>>> branch 'master' of https://github.com/Mrninalini/mrinalini.selenium.java.git
+
